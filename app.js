@@ -1,1 +1,1 @@
-console.log("Hello craybae-dell this is app.js rectification");
+console.log("Hello craybae-dell");
